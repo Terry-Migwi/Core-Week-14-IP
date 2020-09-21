@@ -12,7 +12,7 @@ Terry Migwi
 
 The aim of this project is to reduce the dimensionality of the data provided to allow for great visualization of the datapoints. The project entails Exploratory Data Analysis on the variables, visualizing the variables to get a better understanding of the dataset and application of two dimensionality reduction techniques i.e Principal Component Analysis (PCA) and T - Distributed Stochastic Neighbour Embedding (T-SNE).
 
-[Find the link to this project here](https://terry-migwi.github.io/Core--week-13-IP-/doc/Advertising---supervised-learning.html)
+[Find the link to this project here](https://terry-migwi.github.io/Core-Week-14-IP/docs/Dimensionality-Reduction.html)
 
 2. Feature Selection in Unsupervised Learning with R
 

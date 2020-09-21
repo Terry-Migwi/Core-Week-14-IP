@@ -19,13 +19,13 @@ The aim of this project is to reduce the dimensionality of the data provided to 
 The aim of the project is to select important features from the dataset provided to assist in creating an accurate predictive model. The project makes use of three techniques of feature selection in unsupervised learning i.e Filter Methods, Wrapper Methods and Feature Ranking.
 The steps followed include loading and checking the dataset, pre-processing the dataset, performing Exploratory Data analysis on the data and finally applying the feature selection methods mentioned above.
 
-[Find the link to this project here](https://terry-migwi.github.io/Core--week-13-IP-/docs/Online_shoppers_intention.html)
+[Find the link to this project here](https://terry-migwi.github.io/Core-Week-14-IP/docs/Feature-Selection.html)
 
 3. Association Analysis with R
 
 The aim of the project is to identify relationships between items in the dataset given. The steps followed include: loading the dataset as transactions, checking and visualizing the most frequently bought items in the dataset, performing association analysis and visualizations to help better understand the rules generated and finally giving recommendations on how to place items in the stores to help promote the sale of a particular item.
 
-[Find the link to this project here](https://terry-migwi.github.io/Core--week-13-IP-/docs/Online_shoppers_intention.html)
+[Find the link to this project here](https://terry-migwi.github.io/Core-Week-14-IP/docs/Association-Analysis.html)
 
 3. Anomaly Detection with R
 

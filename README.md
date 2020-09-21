@@ -29,9 +29,9 @@ The aim of the project is to identify relationships between items in the dataset
 
 3. Anomaly Detection with R
 
-The aim of the study is to detect and visualize anomalies from a time series dataset.
+The aim of the study is to detect and visualize anomalies from a time series dataset of sales. The project entails loading the dataset, performing data pre-processing and detecting anomalies using the anomalize package in R. 
 
-[Find the link to this project here](https://terry-migwi.github.io/Core--week-13-IP-/docs/Online_shoppers_intention.html)
+[Find the link to this project here](https://terry-migwi.github.io/Core-Week-14-IP/docs/Anomaly-Detection.html)
 
   
  ## Installation Requirements

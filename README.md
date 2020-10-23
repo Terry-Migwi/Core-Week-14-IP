@@ -1,5 +1,5 @@
 # Dimensionality Reduction, Feature Selection, Association Analysis and Anomaly Detection
-This repository contains four RMarkdowns with the work above
+This repository contains four RMarkdowns with the four techniques above
 
 ## Title
 Unsupervised Learning with R
@@ -35,7 +35,7 @@ The aim of the study is to detect and visualize anomalies from a time series dat
 
   
  ## Installation Requirements
-1. Clone the repo by running: git clone https://github.com/Terry-Migwi/Core-Week-14-IP.git
+1. Clone the repo by running: git clone https://github.com/Terry-Migwi/Unsupervised-Learning-Techniques.git
 
 2. Navigate to the project directory: cd pandas
 
